@@ -1,4 +1,4 @@
 
 (fp_lib_table
-  (lib (name "2KuPeoxHoolan")(type KiCad)(uri "$(KIPRJMOD)/2KuPeoxHoolan.pretty")(options "")(descr ""))
+  (lib (name "Butterfly_Alice-none-RGB")(type KiCad)(uri "$(KIPRJMOD)/Butterfly_Alice-none-RGB.pretty")(options "")(descr ""))
 )
