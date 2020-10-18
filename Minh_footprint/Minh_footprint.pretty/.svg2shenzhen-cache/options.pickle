@@ -29,12 +29,12 @@ p12
 I00
 sS'threshold'
 p13
-F30.0
+F20.0
 sS'path'
 p14
-S'F:\\#3.WORK\\kicad_library\\Minh_footprint\\Minh_footprint.pretty'
+S'E:\\github\\kicad_library\\Minh_footprint\\Minh_footprint.pretty'
 p15
 sS'dpi'
 p16
-F1000.0
+F1500.0
 sb.
