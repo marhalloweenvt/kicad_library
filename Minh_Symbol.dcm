@@ -1,9 +1,51 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP3015KTR-G1
+D 1A, Step-Down DC/DC-Converter, 3.3V Fixed Output Voltage, 1.5MHz, TSOT-23
+K Voltage regulator switching buck fixed output analog
+F https://www.diodes.com/assets/Datasheets/PAM2305.pdf
+$ENDCMP
+#
 $CMP LED_RGB_6028
 D RGB LED, red/green/blue/anode
 K LED RGB diode
 F ~
+$ENDCMP
+#
+$CMP PAM2305AAB120
+D 1A, Step-Down DC/DC-Converter, 1.2V Fixed Output Voltage, 1.5MHz, TSOT-23
+K Voltage regulator switching buck fixed output analog
+F https://www.diodes.com/assets/Datasheets/PAM2305.pdf
+$ENDCMP
+#
+$CMP PAM2305AAB150
+D 1A, Step-Down DC/DC-Converter, 1.5V Fixed Output Voltage, 1.5MHz, TSOT-23
+K Voltage regulator switching buck fixed output analog
+F https://www.diodes.com/assets/Datasheets/PAM2305.pdf
+$ENDCMP
+#
+$CMP PAM2305AAB180
+D 1A, Step-Down DC/DC-Converter, 1.8V Fixed Output Voltage, 1.5MHz, TSOT-23
+K Voltage regulator switching buck fixed output analog
+F https://www.diodes.com/assets/Datasheets/PAM2305.pdf
+$ENDCMP
+#
+$CMP PAM2305AAB250
+D 1A, Step-Down DC/DC-Converter, 2.5V Fixed Output Voltage, 1.5MHz, TSOT-23
+K Voltage regulator switching buck fixed output analog
+F https://www.diodes.com/assets/Datasheets/PAM2305.pdf
+$ENDCMP
+#
+$CMP PAM2305AAB280
+D 1A, Step-Down DC/DC-Converter, 2.8V Fixed Output Voltage, 1.5MHz, TSOT-23
+K Voltage regulator switching buck fixed output analog
+F https://www.diodes.com/assets/Datasheets/PAM2305.pdf
+$ENDCMP
+#
+$CMP PAM2305AABADJ
+D 1A, Step-Down DC/DC-Converter, Adjustable Output Voltage, 1.5MHz, TSOT-23
+K Voltage regulator switching buck fixed output analog
+F https://www.diodes.com/assets/Datasheets/PAM2305.pdf
 $ENDCMP
 #
 #End Doc Library
