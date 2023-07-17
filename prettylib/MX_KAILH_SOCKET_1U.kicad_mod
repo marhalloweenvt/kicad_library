@@ -12,6 +12,8 @@
     (tstamp 6813b50d-3591-4ac3-af21-3a19452aa9e5)
   )
   (fp_line (start 6.9 -6.9) (end -6.9 -6.9)
+    (stroke (width 0.12) (type solid)) (layer "B.SilkS") (tstamp ab83e949-1c35-4d93-a301-7781903a9f68))
+  (fp_line (start 6.9 -6.9) (end -6.9 -6.9)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 75199ef1-625e-455f-80b9-113c2fbcd71c))
   (fp_line (start -9.525 -9.525) (end 9.525 -9.525)
     (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp 521e0d05-e693-4424-a045-6819a87daab4))
